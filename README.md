@@ -14,7 +14,7 @@ Meu nome é Saulo sou tenho 19 anos, sou de Salvador/BA e estou no começo da mi
 <br/>
 <br/>
 
-### 🤖 Linguagens e Tecnologias
+###  Linguagens e Tecnologias:
 
 <img 
     align="left" 
