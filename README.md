@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Junior`**
 
-Meu nome é Saulo sou tenho 19 anos, sou de Salvador/BA e estou no começo da minha rota de programação, tendo como objetivo me tornar cada vez melhor.
+Meu nome é Saulo tenho 19 anos, sou de Salvador/BA e estou no começo da minha rota de programação, tendo como objetivo me tornar cada vez melhor.
 
 <img 
     align="left" 
